@@ -5,12 +5,6 @@
 - 📫 Email: snir1552@gmail.com
 - ❤️ Hobbies: Music 🥁 Programming 💻 Chess ♟️ Cinema 🎬 Soccer ⚽ 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="" />
-</a>
 
 
 
